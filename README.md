@@ -1,4 +1,4 @@
-# ♠️ A.J. Marie D. Daquiado ♠️
+# ♣️ A.J. Marie D. Daquiado ♣️
 
 ### UI/UX Designer & Figma Specialist · Gambling with Pixels
 
