@@ -20,7 +20,7 @@
 ```javascript
 const CloverDesigner = {
     name: "A.J. Marie D. Daquiado",
-    role: "UI/UX Designer & Figma Specialist",
+    role: "UI/UX Designer, Graphic Designer, & Figma Specialist",
     education: "Computer Engineering Technology",
     currentFocus: [
         "🎨 User-Centered Design",
