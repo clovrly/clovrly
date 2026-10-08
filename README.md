@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Clover Banner](https://capsule-render.vercel.app/api?type=waving&color=228B22&height=200&section=header&text=UI/UX%20Designer&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Crafting%20thoughtful%20digital%20experiences&descSize=16&descAlign=50&descAlignY=75&stroke=2F7D32&strokeWidth=2)
+![Clover Banner](https://capsule-render.vercel.app/api?type=waving&color=228B22&height=200&section=header&text=Graphic%20Designer&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Crafting%20thoughtful%20digital%20experiences&descSize=16&descAlign=50&descAlignY=75&stroke=2F7D32&strokeWidth=2)
 
 ### 🌱 *"Growing beautiful, user-centered experiences one pixel at a time"* 🌱
 
@@ -21,7 +21,7 @@
 const CloverDesigner = {
     name: "A.J. Marie D. Daquiado",
     role: "UI/UX Designer, Graphic Designer, & Figma Specialist",
-    education: "Computer Engineering Technology",
+    education: "Computer Engineering Technology Graduate",
     currentFocus: [
         "🎨 User-Centered Design",
         "🌿 Design Systems Architecture", 
@@ -143,7 +143,7 @@ const CloverDesigner = {
 
 <table align="center">
 <tr>
-<td align="center">🎨<br><b>UI/UX Design</b></td>
+<td align="center">🎨<br><b>Graphic Design</b></td>
 <td align="center">🌿<br><b>Design Systems</b></td>
 <td align="center">🔍<br><b>User Research</b></td>
 <td align="center">💻<br><b>Frontend Dev</b></td>
